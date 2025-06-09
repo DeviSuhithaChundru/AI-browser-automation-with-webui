@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/DeviSuhithaChundru/AI-browser-automation-with-webui/blob/main/web-ui.pnge" style="width:400px;" alt="Web UI Logo"/>
+  <img src="https://github.com/DeviSuhithaChundru/AI-browser-automation-with-webui/blob/main/web-ui.png" style="width:400px;" alt="Web UI Logo"/>
 </p>
 
 
