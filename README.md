@@ -103,7 +103,8 @@ playwright --version
 ### 4️⃣ Set Up Your Environment File
 
 cp .env.example .env
-# Open .env in your editor and add your API key and settings
+
+### Open .env in your editor and add your API key and settings
 notepad .env    # (or use any text editor)
 
 ### 5️⃣ 🔑 Get Your Google AI Studio API Key
@@ -147,7 +148,7 @@ This project isn't just code - it's a complete step-by-step guide that walks you
 - Using prompts for job search, document writing, and more
 - Debugging common errors (API key, browser permission, etc.)
 
-### 📂 📄 Click here to view full documentation → https://github.com/DeviSuhithaChundru/AI-browser-automation-with-webui/blob/main/Documentation.pdf
+[Click here to view full documentation(PDF)](https://github.com/DeviSuhithaChundru/AI-browser-automation-with-webui/blob/main/Documentation.pdf)
 
 Whether you're a beginner or expert, this guide makes setup foolproof and easy to extend!
 
