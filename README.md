@@ -18,7 +18,7 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=white&style=for-the-badge)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6B00?style=for-the-badge)
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates how to build an AI-powered browser agent that automates repetitive web tasks using **Playwright** and **Gemini (Google AI Studio)** - all through a clean and powerful UI powered by **WebUI**.
 
@@ -80,10 +80,12 @@ For Windows: To create the virtual environment:
 
 uv venv --python 3.11
 
-# Activate virtual environment
-# On Windows:
+### Activate virtual environment
+
+On Windows:
 .venv\Scripts\activate
-# On macOS/Linux:
+
+On macOS/Linux:
 source .venv/bin/activate
 
 ### Install Required Packages
@@ -161,7 +163,6 @@ Whether you're a beginner or expert, this guide makes setup foolproof and easy t
 This project builds on the great work from browser-use, making AI browser agents accessible through visual interfaces.
 
 Huge thanks to the open-source community for enabling next-gen automation.
-
 
 
 ### 🎥 Result(Output)
