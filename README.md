@@ -105,7 +105,7 @@ playwright --version
 cp .env.example .env
 
 ### Open .env in your editor and add your API key and settings
-notepad .env    # (or use any text editor)
+notepad .env    (or use any text editor)
 
 ### 5️⃣ 🔑 Get Your Google AI Studio API Key
 When you first run the agent, you might see this error:
