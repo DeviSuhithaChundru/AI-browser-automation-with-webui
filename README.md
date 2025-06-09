@@ -51,13 +51,13 @@ We can choose to keep the browser window open between AI tasks, allowing us to s
 
 ### Tools and Technologies Used
 
-- **Python**                                       Core programming language for automation
-- **Pip**                                          Package manager for Python dependencies
-- **Git**                                           Version control system for project tracking
-- **WebUI (Browser-UI)**	                           Automation framework for controlling browser
-- **Google Chrome**	                                 Target browser for automation
-- **Google AI Studio API**	                         For powering smart AI interactions
-- **Terminal / CMD**	                               Running scripts and installations
+- **Python**                     -                  Core programming language for automation
+- **Pip**                        -                 Package manager for Python dependencies
+- **Git**                        -                   Version control system for project tracking
+- **WebUI (Browser-UI)**	       -                    Automation framework for controlling browser
+- **Google Chrome**	             -                     Target browser for automation
+- **Google AI Studio API**	     -                   For powering smart AI interactions
+- **Terminal / CMD**	           -                   Running scripts and installations
 
 ### ⚙️ Installation Guide
 
@@ -153,22 +153,24 @@ This project isn't just code - it's a complete step-by-step guide that walks you
 Whether you're a beginner or expert, this guide makes setup foolproof and easy to extend!
 
 ### ✨ What Sets This Project Apart
-✅ Full browser automation using AI
-✅ Integrates with Gemini via free Google AI Studio
-✅ Supports our own browser profile (Chrome, Edge)
-✅ Easy configuration via .env
-✅ Live UI with task history, logs, and recordings
-✅ Use-case ready prompts: job search, Gmail, LinkedIn, Google Docs
+- Full browser automation using AI
+- Integrates with Gemini via free Google AI Studio
+-  Supports our own browser profile (Chrome, Edge)
+- Easy configuration via .env
+-  Live UI with task history, logs, and recordings
+-   Use-case ready prompts: job search, Gmail, LinkedIn, Google Docs
+
+
+### 🎥 Result(Output)
+
+![Output Demo](Output.gif)
+
 
 ### 🙌 Credits & Inspirations
 This project builds on the great work from browser-use, making AI browser agents accessible through visual interfaces.
 
 Huge thanks to the open-source community for enabling next-gen automation.
 
-
-### 🎥 Result(Output)
-
-![Output Demo](Output.gif)
 
 
 
