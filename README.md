@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center"> # 🤖 AI Browser Automation with WebUI
+<h2 align="center"> <b> 🤖 AI Browser Automation with WebUI </b> </h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
