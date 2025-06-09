@@ -137,14 +137,15 @@ http://127.0.0.1:7788/?__theme=dark
 ### Using Your Own Browser(Optional):
 
 Set BROWSER_PATH to the executable path of your browser and BROWSER_USER_DATA to the user data directory of your browser. Leave BROWSER_USER_DATA empty if you want to use local user data.
-Windows
- BROWSER_PATH="C:\Program Files\Google\Chrome\Application\chrome.exe"
- BROWSER_USER_DATA="C:\Users\YourUsername\AppData\Local\Google\Chrome\User Data"
-Note: Replace YourUsername with your actual Windows username for Windows systems.
 
-### Mac
- BROWSER_PATH="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
- BROWSER_USER_DATA="/Users/YourUsername/Library/Application Support/Google/Chrome"
+**Windows**
+ - BROWSER_PATH="C:\Program Files\Google\Chrome\Application\chrome.exe"
+ - BROWSER_USER_DATA="C:\Users\YourUsername\AppData\Local\Google\Chrome\User Data"
+Note: Replace **YourUsername** with your actual Windows username for Windows systems.
+
+**Mac**
+ - BROWSER_PATH="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+ - BROWSER_USER_DATA="/Users/YourUsername/Library/Application Support/Google/Chrome"
 **Close all Chrome windows**
 Open the WebUI in a non-Chrome browser, such as Firefox or Edge. This is important because the persistent browser context will use the Chrome data when running the agent.
 Check the "Use Own Browser" option within the Browser Settings.
