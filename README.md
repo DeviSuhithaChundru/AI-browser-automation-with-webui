@@ -145,7 +145,7 @@ This project isn't just code - it's a complete step-by-step guide that walks you
 - Using prompts for job search, document writing, and more
 - Debugging common errors (API key, browser permission, etc.)
 
-### 📂 📄 Click here to view full documentation → 
+### 📂 📄 Click here to view full documentation → https://github.com/DeviSuhithaChundru/AI-browser-automation-with-webui/blob/main/Documentation.pdf
 
 Whether you're a beginner or expert, this guide makes setup foolproof and easy to extend!
 
